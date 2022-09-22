@@ -1,0 +1,61 @@
+{
+    "success": true,
+    "data": [
+        {
+            "Id": 1,
+            "Nome": "Bola Nike 90",
+            "Valor": 145.96,
+            "DataCadastro": "2022-01-15 11:01:23",
+            "DataValidade": null,
+            "Img": null
+        },
+        {
+            "Id": 2,
+            "Nome": "Barra de Proteína Integramédica",
+            "Valor": 3.49,
+            "DataCadastro": "2022-04-01 00:01:23",
+            "DataValidade": "2023-01-01",
+            "Img": "https://imgcentauro-a.akamaihd.net/900x900/76097300/barra-de-proteina-integramedica-protein-bar-30g-sabor-chocolate-img.jpg"
+        },
+        {
+            "Id": 3,
+            "Nome": "Barra de Proteína Nutrata",
+            "Valor": 10.49,
+            "DataCadastro": "2022-02-01 15:45:23",
+            "DataValidade": "2022-05-01",
+            "Img": "https://imgcentauro-a.akamaihd.net/900x900/96957000/barra-de-proteina-nutrata-grego-havanna-40-g-doce-de-leite-img.jpg"
+        },
+        {
+            "Id": 4,
+            "Nome": "Tênis Adidas Lite",
+            "Valor": 209.96,
+            "DataCadastro": "2022-08-01 08:45:23",
+            "DataValidade": null,
+            "Img": "https://imgcentauro-a.akamaihd.net/900x900/96943362/tenis-adidas-lite-racer-3-0-masculino-img.jpg"
+        },
+        {
+            "Id": 5,
+            "Nome": "Camisa do Brasil",
+            "Valor": 129.99,
+            "DataCadastro": "2022-08-01 08:43:23",
+            "DataValidade": null,
+            "Img": "https://imgcentauro-a.akamaihd.net/900x900/96862008/camiseta-do-brasil-cbf-torcedor-juvenil-img.jpg"
+        },
+        {
+            "Id": 6,
+            "Nome": "Camisa do Brasil Personalizada",
+            "Valor": 189.99,
+            "DataCadastro": "2022-08-01 08:43:23",
+            "DataValidade": null,
+            "Img": null
+        },
+        {
+            "Id": 7,
+            "Nome": "Bola de Basquete",
+            "Valor": 88.29,
+            "DataCadastro": "2022-07-01 08:43:23",
+            "DataValidade": null,
+            "Img": "https://imgcentauro-a.akamaihd.net/900x900/966449CD/bola-de-basquete-spalding-streetball-img.jpg"
+        }
+    ]
+}
